@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Olga Lapovsky.A software engineer.
+
+![Alt Text](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
+
+
+🌱 I’m currently learning React in the online She Codes Course.<br/>
+📫 How to reach me: https://www.linkedin.com/in/olgalapovsky/
 <!--
 **olg200492/olg200492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
