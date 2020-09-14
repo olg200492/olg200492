@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Olga Lapovsky. A software engineer.
+# Olga Lapovsky.Software engineer.
 
 ![Alt Text](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
 
