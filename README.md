@@ -3,7 +3,7 @@
 
 
 ## 🌱 I’m currently learning React at She Codes;.<br/>
-## ⚡ My next challenge : building a web site with Node.js for Pomodoro clock.
+## ⚡ My current challenge : building a web site with Node.js for Pomodoro clock.
 ## 💾 The next hackaton I'll be attending : [HeroHacks](https://organize.mlh.io/participants/events/4618-herohacks)<br/>
 ## 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/olgalapovsky)<br/>
 
