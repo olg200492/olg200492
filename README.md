@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am Olga LApovsky</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I'm Olga Lapovsky</strong></samp></h2>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 ![Alt Text](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
 
