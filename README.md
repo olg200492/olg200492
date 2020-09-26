@@ -1,6 +1,6 @@
 <h2 align='center'><samp><strong>Hi there 👋, I'm Olga Lapovsky</strong></samp></h2>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
-![Alt Text](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/3o6ZtpxSZbQRRnwCKQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ">via GIPHY</a></p>
 
 
 ## 🌱 I’m currently learning React at She Codes;.<br/>
@@ -8,7 +8,7 @@
 ## 💾 The next hackaton I'll be attending : [HeroHacks](https://organize.mlh.io/participants/events/4618-herohacks)<br/>
 ## <p>📫 How to reach me: <a href="https://www.linkedin.com/in/olgalapovsky"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
 
-## <p align='center'>💻 **Languages and Tools:** 🛠️ <p><br>
+## 💻 **Languages and Tools:** 🛠️ <br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
