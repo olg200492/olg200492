@@ -8,7 +8,7 @@
 ## 💾 The next hackaton I'll be attending : [HeroHacks](https://organize.mlh.io/participants/events/4618-herohacks)<br/>
 ## <p>📫 How to reach me: <a href="https://www.linkedin.com/in/olgalapovsky"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
 
-## 💻 **Languages and Tools:** 🛠️<br>
+## <p align='center'>💻 **Languages and Tools:** 🛠️ <p><br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
