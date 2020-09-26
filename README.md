@@ -1,7 +1,5 @@
 <h2 align='center'><samp><strong>Hi there 👋, I'm Olga Lapovsky</strong></samp></h2>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/3o6ZtpxSZbQRRnwCKQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ">via GIPHY</a></p>
-
 
 ## 🌱 I’m currently learning React at She Codes;.<br/>
 ## ⚡ My current challenge : building a web site with Node.js for Pomodoro clock.
