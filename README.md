@@ -1,3 +1,26 @@
+<h1 align="center">Hi 👋, I'm Olga Lapovsky</h1>
+<h3 align="center">A passionate web developer from Israel</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=olg200492" alt="olg200492" /> </p>
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **olg200492@gmail.com**
+
+- 💾 The next hackaton I'll be attending : [HeroHacks](https://organize.mlh.io/participants/events/4618-herohacks)<br/>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olg200492&layout=compact" alt="olg200492" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olg200492&show_icons=true" alt="olg200492" /></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/olgalapovsky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="olgalapovsky" height="30" width="30" /></a>
+</p>
+
+
+<!--
+
 <h2 align='center'><samp><strong>Hi there 👋, I'm Olga Lapovsky</strong></samp></h2>
 <p align='center'>Software developer | Web developer</p>
 
@@ -20,7 +43,7 @@
 
 
 
-<!--
+
 **olg200492/olg200492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
