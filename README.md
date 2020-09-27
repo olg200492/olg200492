@@ -1,5 +1,5 @@
 <h2 align='center'><samp><strong>Hi there 👋, I'm Olga Lapovsky</strong></samp></h2>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+<p align='center'>Software developer | Web developer</p>
 
 ## 🌱 I’m currently learning React at She Codes;.<br/>
 ## ⚡ My current challenge : building a web site with Node.js for Pomodoro clock.
