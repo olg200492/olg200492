@@ -13,7 +13,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olg200492&layout=compact" alt="olg200492" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olg200492&show_icons=true" alt="olg200492" /></p>
-
+<a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn icon by Icons8</a>
 <!-- <p align="center">
 <a href="https://linkedin.com/in/olgalapovsky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="olgalapovsky" height="30" width="30" /></a>
 </p> -->
