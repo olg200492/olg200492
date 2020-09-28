@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olga Lapovsky</h1>
 <h3 align="center">A passionate web developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olg200492&color=brightgreen" alt="olg200492" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=olg200492&color=brightgreen" alt="olg200492" /> </p>
 
 - 🌱 I’m currently learning **React**
 
