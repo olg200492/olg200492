@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Israel</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olg200492&color=brightgreen" alt="olg200492" /> </p>
-<p align="center"><img src="https://www.codewars.com/users/olg200492/badges/micro" /> </p>
+<p align="center"><a href="https://www.codewars.com/users/olg200492" target="blank"><img src="https://www.codewars.com/users/olg200492/badges/micro" /></a> </p>
 
 
 - 🌱 I’m currently learning **React**
