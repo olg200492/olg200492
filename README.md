@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olga Lapovsky</h1>
+<h1 align="center">Hi <img src="https://github.com/olg200492/olg200492/blob/master/wave.gif?raw=truef" width="30px">, I'm Olga Lapovsky</h1>
 <h3 align="center">A passionate web developer from Israel</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olg200492&color=brightgreen" alt="olg200492" /> </p>
