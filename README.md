@@ -13,7 +13,8 @@
 - ⚡ Fun fact: The hashtag symbol is technically called an octothorpe.
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Crack The Coding interview With Me](https://dev.to/ifelseolga/crack-the-coding-interview-with-me-c03)
+- [Crack The Coding Interview With Me: Binary Search](https://dev.to/ifelseolga/crack-the-coding-interview-with-me-binary-search-29ei)
+- [Crack The Coding Interview With Me](https://dev.to/ifelseolga/crack-the-coding-interview-with-me-c03)
 - [Bubble Sort in JavaScript](https://dev.to/ifelseolga/bubble-sort-in-javascript-2k26)
 <!-- BLOG-POST-LIST:END -->
 ### 📦 Languages and Tools: 
