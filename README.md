@@ -5,11 +5,11 @@
 <p align="center"><a href="https://www.codewars.com/users/olg200492" target="blank"><img src="https://www.codewars.com/users/olg200492/badges/micro" /></a> </p>
 
 
-- 🌱 I’m currently learning **React** through [SheCodes;](https://she-codes.org/he/home-heb/) and **MongoDB** at [FreeCodeCamp](https://www.freecodecamp.org/olgalapovsky)
+- 🌱 I’m currently learning Node.js
 
 - 📫 How to reach me : <a href="https://linkedin.com/in/olgalapovsky" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="olgalapovsky" height="30" width="30"/></a>
 
-- 💾 The next hackhaton I'll be attending : [Learn Day](https://localhackday.mlh.io/)<br/>
+- 💾 The next hackhaton I'll be attending : [Local Hack Day: Share](https://localhackday.mlh.io/)<br/>
 - ⚡ Fun fact: The hashtag symbol is technically called an octothorpe.
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
