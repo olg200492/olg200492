@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://github.com/olg200492/olg200492/blob/master/wave.gif?raw=truef" width="30px">, I'm Olga Lapovsky</h1>
-<h3 align="center">A passionate Web Developer from Israel</h3>
+<h3 align="center">A passionate Front-End Developer from Israel</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olg200492&color=brightgreen" alt="olg200492" /> </p>
 <p align="center"><a href="https://www.codewars.com/users/olg200492" target="blank"><img src="https://www.codewars.com/users/olg200492/badges/micro" /></a> </p>
 
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Gatsby.js
 
 - 📫 How to reach me : <a href="https://linkedin.com/in/olgalapovsky" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="olgalapovsky" height="30" width="30"/></a>
 
-- 💾 The next hackhaton I'll be attending : [Local Hack Day: Share](https://localhackday.mlh.io/)<br/>
+<!-- - 💾 The next hackhaton I'll be attending : [Local Hack Day: Share](https://localhackday.mlh.io/)<br/> -->
 - ⚡ Fun fact: The hashtag symbol is technically called an octothorpe.
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
