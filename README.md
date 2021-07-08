@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Cloud Application Development - AWS
 
-- 📫 How to reach me : <a href="https://linkedin.com/in/olgalapovsky" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="olgalapovsky" height="30" width="30"/></a>
+- 📫 How to reach me : <a href="https://linkedin.com/in/olga-lapovsky" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="olgalapovsky" height="30" width="30"/></a>
 
 <!-- - 💾 The next hackhaton I'll be attending : [Local Hack Day: Share](https://localhackday.mlh.io/)<br/> -->
 - ⚡ Fun fact: The hashtag symbol is technically called an octothorpe.
