@@ -13,10 +13,10 @@
 - ⚡ Fun fact: The hashtag symbol is technically called an octothorpe.
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crack The Coding Interview With Me:DFS](https://dev.to/ifelseolga/crack-the-coding-interview-with-me-dfs-229l)
 - [Crack The Coding Interview With Me: Quick Sort](https://dev.to/ifelseolga/crack-the-coding-interview-with-me-quick-sort-1p18)
 - [👩‍💻Local Hack Day: Build Day 1](https://dev.to/ifelseolga/local-hack-day-build-day-1-1jj8)
 - [Crack The Coding Interview With Me: Merge Sort](https://dev.to/ifelseolga/crack-the-coding-interview-with-me-merge-sort-1fp6)
-- [Crack The Coding Interview With Me: Binary Search](https://dev.to/ifelseolga/crack-the-coding-interview-with-me-binary-search-29ei)
 <!-- BLOG-POST-LIST:END -->
 ### 📦 Languages and Tools: 
 
