@@ -5,8 +5,6 @@
 <p align="center"><a href="https://www.codewars.com/users/olg200492" target="blank"><img src="https://www.codewars.com/users/olg200492/badges/micro" /></a> </p>
 
 
-- 🌱 I’m currently learning Cloud Application Development - AWS
-
 - 📫 How to reach me : <a href="https://linkedin.com/in/olga-lapovsky" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="olgalapovsky" height="30" width="30"/></a>
 
 <!-- - 💾 The next hackhaton I'll be attending : [Local Hack Day: Share](https://localhackday.mlh.io/)<br/> -->
@@ -34,7 +32,7 @@
 
 
 <!--
-
+🌱 I’m currently learning Cloud Application Development - AWS
 <h2 align='center'><samp><strong>Hi there 👋, I'm Olga Lapovsky</strong></samp></h2>
 <p align='center'>Software developer | Web developer</p>
 
