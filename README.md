@@ -49,5 +49,7 @@ I like replacing manual, error-prone procedures with something repeatable and re
 
 ### 📫 Reach me
 
-<a href="https://www.linkedin.com/in/olga-lapovsky">LinkedIn</a>
+<a href="https://www.linkedin.com/in/olga-lapovsky">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+</a>
 
